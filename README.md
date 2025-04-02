@@ -2,7 +2,7 @@
 
 - 💾 Atualmente trabalho como Analista de suporte
 - 💻 Estou me especializando na área de Desenvolvedor Front-End
-- 🎒 Estou cursando Sistemas de Informação na Universidade Ferderal Fluminense UFF
+- 🎒 Estou cursando Sistemas de Informação na Universidade Federal Fluminense UFF
 - 🌱 Atualmente  estou estudando React
 <div> 
   <a href="https://www.linkedin.com/in/2santois" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
