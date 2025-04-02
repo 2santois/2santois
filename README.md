@@ -1,4 +1,5 @@
 ## Olá, meu nome é Victor Guimaraes 👋
+*`Desenvolvedor Front-End`*
 
 - 💾 Atualmente trabalho como Analista de suporte
 - 💻 Estou me especializando na área de Desenvolvedor Front-End
